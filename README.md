@@ -1,10 +1,12 @@
 # Título del trabajo
 
-Descripción breve del proyecto a realizar (2-3 frases).
+Asiste a los mejores conciertos, eventos deportivos y eventos culturales comprando tus entradas desde nuestra plataforma. Tenemos un calendario actuaciones con los mejores artistas internacionales ¡No esperes más y compra ya tu entrada!
 
 ## Integrantes del equipo
 
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
+Rafael García Gómez - rafaelgarciagomez
+Susana González Miguel - 
+Hugo García las Heras - 
 
 ## Objetivos del trabajo
 
